@@ -1,28 +1,25 @@
-import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import Services from "@/components/Services";
-import Brands from "@/components/Brands";
-import Zones from "@/components/Zones";
-import PaymentMethods from "@/components/PaymentMethods";
-import SectionDivider from "@/components/SectionDivider";
+import Navbar from "@/components/Navbar";
+import HeroSection from "@/components/HeroSection";
+import ServicesSection from "@/components/ServicesSection";
+import BrandsSection from "@/components/BrandsSection";
+import WhyUsSection from "@/components/WhyUsSection";
+import CoverageSection from "@/components/CoverageSection";
+import PaymentSection from "@/components/PaymentSection";
+import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
-import WhatsAppFloat from "@/components/WhatsAppFloat";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-secondary">
-      <Header />
-      <Hero />
-      <SectionDivider />
-      <Services />
-      <SectionDivider />
-      <Brands />
-      <SectionDivider />
-      <Zones />
-      <SectionDivider />
-      <PaymentMethods />
+    <div className="min-h-screen bg-background">
+      <Navbar />
+      <HeroSection />
+      <ServicesSection />
+      <BrandsSection />
+      <WhyUsSection />
+      <CoverageSection />
+      <PaymentSection />
+      <ContactSection />
       <Footer />
-      <WhatsAppFloat />
     </div>
   );
 };
