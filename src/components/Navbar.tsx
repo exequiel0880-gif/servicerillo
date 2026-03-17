@@ -21,14 +21,14 @@ const Navbar = () => {
             Contacto
           </a>
           <a
-            href="https://api.whatsapp.com/send/?phone=5491138839060&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
+            href="https://api.whatsapp.com/send/?phone=5491140473789&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 text-sm font-semibold rounded-lg px-3 py-2 text-white transition-all hover:scale-[1.02]"
             style={{ backgroundColor: "#25D366" }}
           >
             <Phone className="h-4 w-4" />
-            +54 9 11 3883-9060
+            +54 9 11 4047-3789
           </a>
         </div>
 
@@ -52,14 +52,14 @@ const Navbar = () => {
             Contacto
           </a>
           <a
-            href="https://api.whatsapp.com/send/?phone=5491138839060&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
+            href="https://api.whatsapp.com/send/?phone=5491140473789&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-1.5 w-full text-sm font-semibold rounded-lg px-3 py-2 text-white transition-all"
             style={{ backgroundColor: "#25D366" }}
           >
             <Phone className="h-4 w-4" />
-            +54 9 11 3883-9060
+            +54 9 11 4047-3789
           </a>
         </div>
       )}

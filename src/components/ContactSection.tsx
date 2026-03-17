@@ -25,14 +25,14 @@ const ContactSection = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
             <a
-              href="https://api.whatsapp.com/send/?phone=5491138839060&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
+              href="https://api.whatsapp.com/send/?phone=5491140473789&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
               target="_blank"
               rel="noopener noreferrer"
               className="p-6 rounded-2xl bg-card border border-border shadow-card text-center hover:shadow-elevated transition-all duration-300 hover:-translate-y-1"
             >
               <Phone className="h-6 w-6 text-accent mx-auto mb-3" />
               <p className="font-semibold text-card-foreground">Teléfono</p>
-              <p className="text-muted-foreground text-sm mt-1">+54 9 11 3883-9060</p>
+              <p className="text-muted-foreground text-sm mt-1">+54 9 11 4047-3789</p>
             </a>
             <div className="p-6 rounded-2xl bg-card border border-border shadow-card text-center">
               <MapPin className="h-6 w-6 text-accent mx-auto mb-3" />
@@ -47,7 +47,7 @@ const ContactSection = () => {
           </div>
 
           <a
-            href="https://api.whatsapp.com/send/?phone=5491138839060&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
+            href="https://api.whatsapp.com/send/?phone=5491140473789&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 font-semibold text-lg px-10 py-4 rounded-xl shadow-elevated transition-all hover:scale-[1.02] text-white"

@@ -49,7 +49,7 @@ const HeroSection = () => {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://api.whatsapp.com/send/?phone=5491138839060&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
+              href="https://api.whatsapp.com/send/?phone=5491140473789&text=Hola%2C+necesito+solicitar+un+servicio+t%C3%A9cnico"
               target="_blank"
               rel="noopener noreferrer"
             >

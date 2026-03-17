@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Refrigerator, WashingMachine, Wine, Sparkles } from "lucide-react";
 
-const WHATSAPP_BASE = "https://api.whatsapp.com/send/?phone=5491138839060&text=";
+const WHATSAPP_BASE = "https://api.whatsapp.com/send/?phone=5491140473789&text=";
 
 const services = [
   {
